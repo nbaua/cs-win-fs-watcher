@@ -11,5 +11,3 @@ I just provides the barebones for you to get started.
 
 ### Preview 
 ![App in Action](https://github.com/nbaua/cs-win-fs-watcher/blob/master/screenshot/watchhhh.png)
-
-#### Features
